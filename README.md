@@ -1,4 +1,4 @@
-# Socket.io Genel Sohbet Oyunu
+# Socket.io Genel Sohbet Odası
 
 Socket.io ve React kazanımlarını geliştirmek için oluşturulmuştur.
 
